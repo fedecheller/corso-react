@@ -10,6 +10,9 @@ function HeaderBar() {
                 <Link to={'/contacts'}>contatti</Link>
             </li>
             <li>
+                <Link to={'/contacts/1'}>contatto 1</Link>
+            </li>
+            <li>
                 <Link to={'/about'}>about</Link>
             </li>
 
